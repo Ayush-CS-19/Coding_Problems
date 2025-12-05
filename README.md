@@ -7,6 +7,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
+## Array
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
