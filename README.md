@@ -13,6 +13,7 @@
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1494-parallel-courses-ii) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -27,6 +28,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1494-parallel-courses-ii) |
 ## Tree
@@ -40,6 +42,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Design
 |  |
@@ -60,9 +63,11 @@
 ## Graph
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1494-parallel-courses-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1494-parallel-courses-ii) |
 ## Bitmask
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1494-parallel-courses-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
