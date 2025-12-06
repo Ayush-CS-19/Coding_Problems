@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
+## Hash Table
+|  |
+| ------- |
+| [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 <!---LeetCode Topics End-->
