@@ -27,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
@@ -92,4 +94,24 @@
 |  |
 | ------- |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
