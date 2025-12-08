@@ -7,6 +7,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
+| [1925-count-square-sum-triples](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1925-count-square-sum-triples) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
