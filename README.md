@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [1925-count-square-sum-triples](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1925-count-square-sum-triples) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -93,6 +95,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 ## Number Theory
 |  |
