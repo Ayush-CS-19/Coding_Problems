@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
@@ -64,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
