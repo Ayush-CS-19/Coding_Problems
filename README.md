@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
@@ -70,6 +71,7 @@
 | [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
@@ -105,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
@@ -144,4 +147,12 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
