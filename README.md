@@ -65,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Array
 |  |
@@ -101,6 +102,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0093-restore-ip-addresses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 ## Number Theory
