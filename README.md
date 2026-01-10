@@ -20,6 +20,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
 |  |
 | ------- |
