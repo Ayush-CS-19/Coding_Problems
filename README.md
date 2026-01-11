@@ -19,6 +19,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -76,6 +77,7 @@
 | [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 ## Stack
 |  |
