@@ -82,6 +82,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
+| [1200-minimum-absolute-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1200-minimum-absolute-difference) |
 ## Matrix
 |  |
 | ------- |
