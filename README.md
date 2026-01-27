@@ -183,4 +183,16 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
