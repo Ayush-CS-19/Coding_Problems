@@ -30,6 +30,7 @@
 | [1494-parallel-courses-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1494-parallel-courses-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
 | ------- |
