@@ -41,6 +41,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@
 | [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1200-minimum-absolute-difference) |
