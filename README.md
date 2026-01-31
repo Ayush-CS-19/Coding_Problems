@@ -92,6 +92,7 @@
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -160,6 +161,7 @@
 ## Counting
 |  |
 | ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
@@ -178,6 +180,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1200-minimum-absolute-difference) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Matrix
 |  |
 | ------- |
