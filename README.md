@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0357-count-numbers-with-unique-digits) |
@@ -46,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0067-add-binary) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1125-smallest-sufficient-team) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -230,5 +233,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
