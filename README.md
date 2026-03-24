@@ -99,6 +99,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [1980-find-unique-binary-string](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1980-find-unique-binary-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
+| [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Graph
 |  |
@@ -201,6 +203,7 @@
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
+| [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
