@@ -105,6 +105,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 | [3637-trionic-array-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3637-trionic-array-i) |
@@ -115,6 +116,7 @@
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 | [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 | [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
