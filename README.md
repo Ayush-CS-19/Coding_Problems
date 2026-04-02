@@ -33,6 +33,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -212,6 +214,7 @@
 | [1314-matrix-block-sum](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1314-matrix-block-sum) |
 | [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
