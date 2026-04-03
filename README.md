@@ -35,6 +35,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 | [3637-trionic-array-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2751-robot-collisions](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
