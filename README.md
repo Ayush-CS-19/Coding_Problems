@@ -82,6 +82,7 @@
 | [0093-restore-ip-addresses](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -156,6 +157,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-grid-illumination](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1001-grid-illumination) |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1980-find-unique-binary-string) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3583-count-special-triplets](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3583-count-special-triplets) |
 ## Brainteaser
