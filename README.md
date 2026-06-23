@@ -36,6 +36,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [2906-construct-product-matrix](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Graph
 |  |
 | ------- |
