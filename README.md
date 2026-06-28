@@ -104,6 +104,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1799-maximize-score-after-n-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1980-find-unique-binary-string](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1980-find-unique-binary-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2751-robot-collisions](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2751-robot-collisions) |
@@ -213,6 +214,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2751-robot-collisions](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
