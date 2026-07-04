@@ -66,11 +66,13 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -279,4 +282,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
