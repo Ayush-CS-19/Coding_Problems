@@ -96,6 +96,7 @@
 | [0085-maximal-rectangle](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0221-maximal-square) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -276,6 +277,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayush-CS-19/Coding_Problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
